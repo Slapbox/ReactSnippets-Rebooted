@@ -9,6 +9,7 @@ Live Templates for React in IntelliJ products webstorm and idea.
 
 | Trigger | Content |
 | --- | --- |
+| `rfc` | functional component skeleton |
 | `rcc` | class component skeleton |
 | `rrc` | class component skeleton with react-redux connect |
 | `rccp` | class component skeleton with prop types after the class |
